@@ -328,7 +328,7 @@ fun_fact: "I architect AI agent swarms that autonomously plan, code, research, a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gugulothubhavith&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
+<img src="https://trophy.ryglcloud.net/?username=gugulothubhavith&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
 
 </div>
 
