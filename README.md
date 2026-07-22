@@ -7,7 +7,7 @@
 
 <!-- ─── ANIMATED HEADER BANNER ─────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:79c0ff&height=220&section=header&text=Gugulothu%20Bhavith&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20GenAI%20Architect&descSize=16&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:79c0ff&amp;height=220&amp;section=header&amp;text=Gugulothu%20Bhavith&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20GenAI%20Architect&amp;descSize=16&amp;descAlignY=55&amp;descAlign=50&amp;animation=fadeIn" width="100%"/>
 
 <!-- ─── TYPING ANIMATION ──────────────────────────────────────────────────── -->
 
@@ -375,7 +375,7 @@ fun_fact: "I architect AI agent swarms that autonomously plan, code, research, a
 
 <!-- ─── ANIMATED FOOTER WAVE ──────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:79c0ff&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,25:161b22,50:1f6feb,75:58a6ff,100:79c0ff&amp;height=120&amp;section=footer" width="100%"/>
 
 <!-- ─── SNAKE ANIMATION ───────────────────────────────────────────────────── -->
 
