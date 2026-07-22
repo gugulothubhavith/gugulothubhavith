@@ -306,8 +306,8 @@ fun_fact: "I architect AI agent swarms that autonomously plan, code, research, a
 <div align="center">
 
 <a href="https://github.com/gugulothubhavith">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gugulothubhavith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gugulothubhavith&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugulothubhavith&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&v=4" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugulothubhavith&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&v=4" alt="Top Languages"/>
 </a>
 
 <br/><br/>
@@ -328,7 +328,7 @@ fun_fact: "I architect AI agent swarms that autonomously plan, code, research, a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gugulothubhavith&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gugulothubhavith&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&v=4" alt="GitHub Trophies" width="95%"/>
 
 </div>
 
@@ -382,9 +382,9 @@ fun_fact: "I architect AI agent swarms that autonomously plan, code, research, a
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gugulothubhavith/gugulothubhavith/raw/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gugulothubhavith/gugulothubhavith/raw/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/gugulothubhavith/gugulothubhavith/raw/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gugulothubhavith/gugulothubhavith/output/github-snake-dark.svg?v=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gugulothubhavith/gugulothubhavith/output/github-snake.svg?v=4" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gugulothubhavith/gugulothubhavith/output/github-snake.svg?v=4" />
 </picture>
 
 </div>
