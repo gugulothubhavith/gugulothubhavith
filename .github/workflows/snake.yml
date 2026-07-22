@@ -11,11 +11,6 @@ on:
     - cron: "0 */12 * * *"
   
   workflow_dispatch:
-  
-  push:
-    branches:
-    - main
-
 jobs:
   build:
     name: Jobs to update datas
